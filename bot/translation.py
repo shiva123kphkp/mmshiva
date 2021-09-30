@@ -4,12 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {} how are you😊!!</b>
+    START_TEXT = """<b>Hey {} how are you 😊!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-you can't add me to your group 😌🎓
+ഞാൻ <a href="t.me/mallumoviesp">മല്ലു മൂവീസ്</a> ഗ്രൂപ്പിൽ മാത്രമേ സപ്പോർട്ട് ആകുക ഉള്ളു. എന്തായാലും ഇവിടെ വരെ വന്നത് അല്ലെ നമ്മടെ ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ 😌🎓
 
-For More Details Click Help Button Below..
+For More Details Click Help Button below 😉..
 @mallumoviesp
 </i>"""    
     
